@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import random
 
@@ -55,7 +50,7 @@ impossible_count = sum(impossibleScenarios(n, m) for _ in range(1000))  # Adjust
 print("Number of impossible scenarios:", impossible_count)
 
 
-# In[ ]:
+
 
 
 
